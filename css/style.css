@@ -45,7 +45,7 @@ body{
     padding: 20px 16px;
 }
 
-.manu a:hover{
+.menu a:hover{
     color: #ff2978;
     border-top: 4px solid #180f4a;
 }
